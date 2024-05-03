@@ -1,16 +1,19 @@
-# final_project
+# Email_Data_Base
 
-A new Flutter project.
+## ScreenShots
 
-## Getting Started
+## Video Demo
+[Email_Data_Base Application Demo]()
 
-This project is a starting point for a Flutter application.
+## App Apk
 
-A few resources to get you started if this is your first Flutter project:
+## Introduction
+Email_Data_Base Application to practice different skills it was my summer training final project 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dscribtion
+This Application implements
+*  Weather Api of Egypt From http://api.weatherapi.com/v1/current.json?key=e3a6705d6d6d42f2907225815233008&q=Egypt&aqi=no
+* State Mangement (Cubit,Bloc)
+* Loading Screen
+* Sqflite data base to login and sign up in accounts 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
